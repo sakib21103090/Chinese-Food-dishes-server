@@ -1,3 +1,316 @@
-
+ [
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/3swMqtj/download-1.jpg",
+      "name": "Chef John",
+      "experience": 10,
+      "recipes": 150,
+      "likes": 5000,
+      "recipesName":[
+        {
+           "name": "Kung Pao Chicken",
+           "image": "https://i.ibb.co/LJ55Zh2/download-2.jpg",
+           "ingredients": [
+            "1 pound ground beef",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 can (15 ounces) kidney beans, drained and rinsed",
+            "1 can (14.5 ounces) diced tomatoes"
+          ],
+          "cookingMethod": "1. In a large pot, cook ground beef over medium-high heat until browned. Drain excess fat.\n2. Add onion and garlic and cook until softened.\n3. Add kidney beans and diced tomatoes. Stir well.\n4. Bring to a simmer and cook for 30 minutes.\n5. Season with salt and pepper to taste.",
+          "rating": 4.2
+          
+        },
+        {
+           "name": "Egg Drop Soup",
+           "image": "https://i.ibb.co/pXVbgDB/download-3.jpg",
+           "ingredients": [
+            "3 ripe avocados",
+            "1/2 onion, diced",
+            "1 jalapeño pepper, seeded and minced",
+            "1/4 cup chopped fresh cilantro",
+            "Juice of 1 lime"
+          ],
+          "cookingMethod": "1. Cut the avocados in half, remove the pits, and scoop out the flesh into a bowl.\n2. Mash the avocados with a fork or potato masher.\n3. Add the onion, jalapeño pepper, cilantro, and lime juice. Mix well.\n4. Season with salt and pepper to taste.\n5. Season with salt and pepper to taste.",
+          "rating": 4.7
+        },
+        {
+           "name": "Beef Chow Fun",
+           "image": "https://i.ibb.co/nwrPp0j/download-4.jpg",
+           "ingredients": [
+            "1 pound ground beef",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 can (15 ounces) kidney beans, drained and rinsed",
+            "1 can (14.5 ounces) diced tomatoes"
+          ],
+          "cookingMethod": "1. In a large pot, cook ground beef over medium-high heat until browned. Drain excess fat.\n2. Add onion and garlic and cook until softened.\n3. Add kidney beans and diced tomatoes. Stir well.\n4. Bring to a simmer and cook for 30 minutes.\n5. Season with salt and pepper to taste.",
+          "rating": 4.2
+        }
+      
+     ]
+      
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/HVC3Q7p/download-5.jpg",
+      "name": "Chef Sarah",
+      "experience": 5,
+      "recipes": 80,
+      "likes": 3000,
+      "recipesName":[
+         {
+            "name": "Kung Pao Chicken",
+            "image": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=794&q=80",
+            "ingredients": [
+             "1 pound ground beef",
+             "1 onion, chopped",
+             "2 cloves garlic, minced",
+             "1 can (15 ounces) kidney beans, drained and rinsed",
+             "1 can (14.5 ounces) diced tomatoes"
+           ],
+           "cookingMethod": "1. In a large pot, cook ground beef over medium-high heat until browned. Drain excess fat.\n2. Add onion and garlic and cook until softened.\n3. Add kidney beans and diced tomatoes. Stir well.\n4. Bring to a simmer and cook for 30 minutes.\n5. Season with salt and pepper to taste.",
+           "rating": 4.2
+           
+         },
+         {
+            "name": "Egg Drop Soup",
+            "image": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=794&q=80",
+            "ingredients": [
+             "3 ripe avocados",
+             "1/2 onion, diced",
+             "1 jalapeño pepper, seeded and minced",
+             "1/4 cup chopped fresh cilantro",
+             "Juice of 1 lime"
+           ],
+           "cookingMethod": "1. Cut the avocados in half, remove the pits, and scoop out the flesh into a bowl.\n2. Mash the avocados with a fork or potato masher.\n3. Add the onion, jalapeño pepper, cilantro, and lime juice. Mix well.\n4. Season with salt and pepper to taste.\n5. Season with salt and pepper to taste.",
+           "rating": 4.7
+         },
+         {
+            "name": "Beef Chow Fun",
+            "image": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=794&q=80",
+            "ingredients": [
+             "1 pound ground beef",
+             "1 onion, chopped",
+             "2 cloves garlic, minced",
+             "1 can (15 ounces) kidney beans, drained and rinsed",
+             "1 can (14.5 ounces) diced tomatoes"
+           ],
+           "cookingMethod": "1. In a large pot, cook ground beef over medium-high heat until browned. Drain excess fat.\n2. Add onion and garlic and cook until softened.\n3. Add kidney beans and diced tomatoes. Stir well.\n4. Bring to a simmer and cook for 30 minutes.\n5. Season with salt and pepper to taste.",
+           "rating": 4.2
+         }
+       
+      ]
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/wwckv6W/download-6.jpg",
+      "name": "Chef David",
+      "experience": 12,
+      "recipes": 200,
+      "likes": 7000,
+      "picture-F": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=794&q=80",
+      "name-F": "Kung Pao Chicken",
+      "image": "https://example.com/kung_pao_chicken.jpg",
+      "recipesName":[
+         {
+            "name": "Kung Pao Chicken",
+            "image": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=794&q=80",
+            "ingredients": [
+             "1 pound ground beef",
+             "1 onion, chopped",
+             "2 cloves garlic, minced",
+             "1 can (15 ounces) kidney beans, drained and rinsed",
+             "1 can (14.5 ounces) diced tomatoes"
+           ],
+           "cookingMethod": "1. In a large pot, cook ground beef over medium-high heat until browned. Drain excess fat.\n2. Add onion and garlic and cook until softened.\n3. Add kidney beans and diced tomatoes. Stir well.\n4. Bring to a simmer and cook for 30 minutes.\n5. Season with salt and pepper to taste.",
+           "rating": 4.2
+           
+         },
+         {
+            "name": "Egg Drop Soup",
+            "image": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=794&q=80",
+            "ingredients": [
+             "3 ripe avocados",
+             "1/2 onion, diced",
+             "1 jalapeño pepper, seeded and minced",
+             "1/4 cup chopped fresh cilantro",
+             "Juice of 1 lime"
+           ],
+           "cookingMethod": "1. Cut the avocados in half, remove the pits, and scoop out the flesh into a bowl.\n2. Mash the avocados with a fork or potato masher.\n3. Add the onion, jalapeño pepper, cilantro, and lime juice. Mix well.\n4. Season with salt and pepper to taste.\n5. Season with salt and pepper to taste.",
+           "rating": 4.7
+         },
+         {
+            "name": "Beef Chow Fun",
+            "image": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=794&q=80",
+            "ingredients": [
+             "1 pound ground beef",
+             "1 onion, chopped",
+             "2 cloves garlic, minced",
+             "1 can (15 ounces) kidney beans, drained and rinsed",
+             "1 can (14.5 ounces) diced tomatoes"
+           ],
+           "cookingMethod": "1. In a large pot, cook ground beef over medium-high heat until browned. Drain excess fat.\n2. Add onion and garlic and cook until softened.\n3. Add kidney beans and diced tomatoes. Stir well.\n4. Bring to a simmer and cook for 30 minutes.\n5. Season with salt and pepper to taste.",
+           "rating": 4.2
+         }
+       
+      ]
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/VtXPfM0/images.jpg",
+      "name": "Chef Emily",
+      "experience": 8,
+      "recipes": 120,
+      "likes": 4000,
+        "recipesName":[
+         {
+            "name": "Kung Pao Chicken",
+            "image": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=794&q=80",
+            "ingredients": [
+             "1 pound ground beef",
+             "1 onion, chopped",
+             "2 cloves garlic, minced",
+             "1 can (15 ounces) kidney beans, drained and rinsed",
+             "1 can (14.5 ounces) diced tomatoes"
+           ],
+           "cookingMethod": "1. In a large pot, cook ground beef over medium-high heat until browned. Drain excess fat.\n2. Add onion and garlic and cook until softened.\n3. Add kidney beans and diced tomatoes. Stir well.\n4. Bring to a simmer and cook for 30 minutes.\n5. Season with salt and pepper to taste.",
+           "rating": 4.2
+           
+         },
+         {
+            "name": "Egg Drop Soup",
+            "image": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=794&q=80",
+            "ingredients": [
+             "3 ripe avocados",
+             "1/2 onion, diced",
+             "1 jalapeño pepper, seeded and minced",
+             "1/4 cup chopped fresh cilantro",
+             "Juice of 1 lime"
+           ],
+           "cookingMethod": "1. Cut the avocados in half, remove the pits, and scoop out the flesh into a bowl.\n2. Mash the avocados with a fork or potato masher.\n3. Add the onion, jalapeño pepper, cilantro, and lime juice. Mix well.\n4. Season with salt and pepper to taste.\n5. Season with salt and pepper to taste.",
+           "rating": 4.7
+         },
+         {
+            "name": "Beef Chow Fun",
+            "image": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=794&q=80",
+            "ingredients": [
+             "1 pound ground beef",
+             "1 onion, chopped",
+             "2 cloves garlic, minced",
+             "1 can (15 ounces) kidney beans, drained and rinsed",
+             "1 can (14.5 ounces) diced tomatoes"
+           ],
+           "cookingMethod": "1. In a large pot, cook ground beef over medium-high heat until browned. Drain excess fat.\n2. Add onion and garlic and cook until softened.\n3. Add kidney beans and diced tomatoes. Stir well.\n4. Bring to a simmer and cook for 30 minutes.\n5. Season with salt and pepper to taste.",
+           "rating": 4.2
+         }
+       
+      ]
+  
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/Sxq2yQ9/images-1.jpg",
+      "name": "Chef Mark",
+      "experience": 15,
+      "recipes": 250,
+      "likes": 9000,
+        "recipesName":[
+         {
+            "name": "Kung Pao Chicken",
+            "image": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=794&q=80",
+            "ingredients": [
+             "1 pound ground beef",
+             "1 onion, chopped",
+             "2 cloves garlic, minced",
+             "1 can (15 ounces) kidney beans, drained and rinsed",
+             "1 can (14.5 ounces) diced tomatoes"
+           ],
+           "cookingMethod": "1. In a large pot, cook ground beef over medium-high heat until browned. Drain excess fat.\n2. Add onion and garlic and cook until softened.\n3. Add kidney beans and diced tomatoes. Stir well.\n4. Bring to a simmer and cook for 30 minutes.\n5. Season with salt and pepper to taste.",
+           "rating": 4.2
+           
+         },
+         {
+            "name": "Egg Drop Soup",
+            "image": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=794&q=80",
+            "ingredients": [
+             "3 ripe avocados",
+             "1/2 onion, diced",
+             "1 jalapeño pepper, seeded and minced",
+             "1/4 cup chopped fresh cilantro",
+             "Juice of 1 lime"
+           ],
+           "cookingMethod": "1. Cut the avocados in half, remove the pits, and scoop out the flesh into a bowl.\n2. Mash the avocados with a fork or potato masher.\n3. Add the onion, jalapeño pepper, cilantro, and lime juice. Mix well.\n4. Season with salt and pepper to taste.",
+           "rating": 4.7
+         },
+         {
+            "name": "Beef Chow Fun",
+            "image": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=794&q=80",
+            "ingredients": [
+             "1 pound ground beef",
+             "1 onion, chopped",
+             "2 cloves garlic, minced",
+             "1 can (15 ounces) kidney beans, drained and rinsed",
+             "1 can (14.5 ounces) diced tomatoes"
+           ],
+           "cookingMethod": "1. In a large pot, cook ground beef over medium-high heat until browned. Drain excess fat.\n2. Add onion and garlic and cook until softened.\n3. Add kidney beans and diced tomatoes. Stir well.\n4. Bring to a simmer and cook for 30 minutes.\n5. Season with salt and pepper to taste.",
+           "rating": 4.2
+         }
+       
+      ]
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/CJs4nN1/images-2.jpg",
+      "name": "Chef Lisa",
+      "experience": 3,
+      "recipes": 50,
+      "likes": 2000,
+        "recipesName":[
+         {
+            "name": "Kung Pao Chicken",
+            "image": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=794&q=80",
+            "ingredients": [
+             "1 pound ground beef",
+             "1 onion, chopped",
+             "2 cloves garlic, minced",
+             "1 can (15 ounces) kidney beans, drained and rinsed",
+             "1 can (14.5 ounces) diced tomatoes"
+           ],
+           "cookingMethod": "1. In a large pot, cook ground beef over medium-high heat until browned. Drain excess fat.\n2. Add onion and garlic and cook until softened.\n3. Add kidney beans and diced tomatoes. Stir well.\n4. Bring to a simmer and cook for 30 minutes.\n5. Season with salt and pepper to taste.",
+           "rating": 4.2
+           
+         },
+         {
+            "name": "Egg Drop Soup",
+            "image": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=794&q=80",
+            "ingredients": [
+             "3 ripe avocados",
+             "1/2 onion, diced",
+             "1 jalapeño pepper, seeded and minced",
+             "1/4 cup chopped fresh cilantro",
+             "Juice of 1 lime"
+           ],
+           "cookingMethod": "1. Cut the avocados in half, remove the pits, and scoop out the flesh into a bowl.\n2. Mash the avocados with a fork or potato masher.\n3. Add the onion, jalapeño pepper, cilantro, and lime juice. Mix well.\n4. Season with salt and pepper to taste.",
+           "rating": 4.7
+         },
+         {
+            "name": "Beef Chow Fun",
+            "image": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=794&q=80",
+            "ingredients": [
+             "1 pound ground beef",
+             "1 onion, chopped",
+             "2 cloves garlic, minced",
+             "1 can (15 ounces) kidney beans, drained and rinsed",
+             "1 can (14.5 ounces) diced tomatoes"
+           ],
+           "cookingMethod": "1. In a large pot, cook ground beef over medium-high heat until browned. Drain excess fat.\n2. Add onion and garlic and cook until softened.\n3. Add kidney beans and diced tomatoes. Stir well.\n4. Bring to a simmer and cook for 30 minutes.\n5. Season with salt and pepper to taste.",
+           "rating": 4.2
+         }
+       
+      ]
+    }
+  ]
+ 
   
   
